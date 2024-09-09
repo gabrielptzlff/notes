@@ -28,5 +28,10 @@ Exemplo: Arquiteto Java, Arquiteto SQL Server(DBA)
 - Afeta diretamente na estrutura organizacional da empresa
     - Formação de times
     - Estrutura dos componentes de software
-* A arquitetura de software é a relação entre os objetivos de negócios e as suas restrições com os componentes a serem 
+- A arquitetura de software é a relação entre os objetivos de negócios e as suas restrições com os componentes a serem 
 criados com as suas responsabilidades visando sua evolução do software
+- A responsabilidade da arquitetura de software é construir um projeto que irá atender a demanda da regra de negócio a curto, médio
+ e a longo prazo. Portanto, a escolha de time, ferramentas e tecnologias deve ser feita pensando em atender os requisitos de forma
+ inicial e visando também o crescimento exponencial do software
+
+[Qual é o papel do Arquiteto de Software?]()
