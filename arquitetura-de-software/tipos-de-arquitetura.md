@@ -4,7 +4,7 @@
 - Diversidade de profissionais especialistas
 - Geração de valor baseado em especialidades
 
-Exemplo: Arquiteto Java, Arquiteto SQl Server(DBA)
+Exemplo: Arquiteto Java, Arquiteto SQL Server(DBA)
 
 ## 🌐 Arquitetura Corporativa
 
@@ -21,3 +21,12 @@ Exemplo: Arquiteto Java, Arquiteto SQl Server(DBA)
 - Analisa os impactos comerciais em relação a uma escolha tecnológica
 - Pode participar do processo comercial de pré-venda e venda (para mostrar detalhes mais técnicos para o cliente para fechar vendas)
 - Analisa os impactos dos custos para o negócio
+
+## 🚀 Arquitetura de Software
+
+- É uma "disciplina" da engenharia de software
+- Afeta diretamente na estrutura organizacional da empresa
+    - Formação de times
+    - Estrutura dos componentes de software
+* A arquitetura de software é a relação entre os objetivos de negócios e as suas restrições com os componentes a serem 
+criados com as suas responsabilidades visando sua evolução do software
