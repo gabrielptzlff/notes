@@ -28,7 +28,8 @@ A programação de IA se baseia em três habilidades cognitivas:
 ### Saúde:
 - diagnóstico automático    
 - atendimento clínico
-- robôs autônomos foram utilizados na pandemia para distribuir medicamentos e prevenir que os médicos fossem contaminados
+- robôs autônomos 
+    >foram utilizados na pandemia para distribuir medicamentos e prevenir que os médicos fossem contaminados
 ### Segurança:
 - smart home
 - cibersecurity
@@ -46,15 +47,21 @@ A programação de IA se baseia em três habilidades cognitivas:
 - reconhecimento ótico de caracteres
 - entre outros.
 
-# Ia X ética!!
+# Ia X ética
 
 ## Consciência Artificial
 Um exemplo de IA forte, são máquinas com consciência artificial, que seria uma máquina criada pelo homem que seja ciente da sua própria existência
 
 ### Viés na IA
-Máquina fornece resultados diferentes para um grupo de pessoas em comparação com outro, considerando:
+IA fornece resultados diferentes para um grupo de pessoas em comparação com outro, considerando:
 - raça
 - gênero
 - nacionalidade, etc
 
 Este problema pode vir de dados de treinamento não representativos ou incompletos e da dependência de informações falhas que refletem desigualdades históricas
+
+# Agentes Inteligentes
+Agentes são entidades capazes de **perceber** seu **ambiente**, tomar decisões e então **agir**.
+Esses Agentes possuem **Sensores** e **Atuadores**, para perceber e interagir com o ambiente, respectivamente.!
+
+[Relação do Agente com o Ambiente:](image.png)
