@@ -70,7 +70,7 @@ Esses Agentes possuem **Sensores** e **Atuadores**, para perceber e interagir co
 3. a decisão deve resultar em uma ação
 4. a ação tomada por um agente de IA deve ser uma ação racional
 
-[](image.png)
+[Relação do agente com o ambiente](image.png)
 
 ## Os 5 tipos de Agentes Inteligentes
 - agentes reativos simples
@@ -84,4 +84,11 @@ Esses Agentes possuem **Sensores** e **Atuadores**, para perceber e interagir co
 - ignora o histórico de percepção
 - baseia-se na condição-ação
 - aplicável para ambientes totalmente observáveis
-[](image-1.png)
+[Exemplo](image-1.png)
+
+### Agentes **reativos baseados em modelo**
+- consideram o histórico de percepção
+- mantém um estado interno que se ajusta a cada percepção
+- podem lidar com ambientes parcialmente observáveis
+![Exemplo](image-2.png)
+
