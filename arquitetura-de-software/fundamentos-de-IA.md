@@ -64,4 +64,24 @@ Este problema pode vir de dados de treinamento não representativos ou incomplet
 Agentes são entidades capazes de **perceber** seu **ambiente**, tomar decisões e então **agir**.
 Esses Agentes possuem **Sensores** e **Atuadores**, para perceber e interagir com o ambiente, respectivamente.!
 
-[Relação do Agente com o Ambiente:](image.png)
+## Um agente de IA precisa seguir quatro regras:
+1. deve ter a capacidade de perceber o ambiente.
+2. a percepção deve ser usada para tomar decisões
+3. a decisão deve resultar em uma ação
+4. a ação tomada por um agente de IA deve ser uma ação racional
+
+[](image.png)
+
+## Os 5 tipos de Agentes Inteligentes
+- agentes reativos simples
+- agentes reativos baseados em modelo
+- agentes baseados em objetivo
+- agentes baseados em utilidade
+- agentes de aprendizagem
+
+### Agentes **reativos simples**
+- age apenas com base na percepção atual
+- ignora o histórico de percepção
+- baseia-se na condição-ação
+- aplicável para ambientes totalmente observáveis
+[](image-1.png)
